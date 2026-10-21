@@ -1,0 +1,45 @@
+# Case Study 75: Integrated Student Record Consistency Checker
+
+## Problem statement
+Validate IDs, duplicate records, names, marks, and attendance.
+
+## Objectives
+Use strings, tuples, loops, and duplicate detection.
+
+## Assumptions
+ID is two digits, two uppercase letters, three digits; marks and attendance 0..100.
+
+## Algorithm
+1. Read or load the case data
+2. Apply the stated rules and calculations
+3. Process records with loops and conditions
+4. Display results and summary
+
+## Flowchart
+See flowchart.svg.
+
+## Pseudocode
+START
+  READ or LOAD the required data
+  FOR each relevant record
+    APPLY the stated conditions and calculations
+    STORE or DISPLAY results
+  END FOR
+  DISPLAY summary
+END
+
+## Python source code
+See source.py. The implementation uses the listed introductory syllabus topics.
+
+## Test cases
+| Input or condition | Expected result |
+|---|---|
+| Normal sample | 24CS101 duplicate is detected. |
+| Boundary case | 24M2102 is malformed and has invalid name/marks. |
+| Invalid or exceptional case | 24EC103 has invalid attendance. |
+
+## Output screenshot
+See output_screenshot.png; captured text is in sample_output.txt.
+
+## Conclusion
+The program applies the assumptions to its sample data and reports results. Compare the assumptions with the faculty's exact rules before submission.

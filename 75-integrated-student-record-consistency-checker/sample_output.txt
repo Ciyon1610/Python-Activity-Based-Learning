@@ -1,0 +1,4 @@
+24CS101 duplicate ID
+24CS101 VALID
+24M2102 malformed ID, blank name, invalid marks
+24EC103 invalid attendance
