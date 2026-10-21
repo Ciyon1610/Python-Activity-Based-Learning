@@ -1,0 +1,5 @@
+Asha 58.333333333333336 Low no flags
+Bala 45.333333333333336 High marks, attendance, lab
+Charan 78.0 Low no flags
+Divya 65.0 High attendance, lab
+Low Moderate High [2, 0, 2]
