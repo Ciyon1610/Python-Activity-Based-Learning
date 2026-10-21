@@ -1,0 +1,3 @@
+Duplicate ID T102
+Invalid amount T104 -50
+Suspicious consecutive large withdrawals
