@@ -1,0 +1,8 @@
+Sample password: PASS length
+PASS uppercase
+PASS lowercase
+PASS digit
+PASS symbol
+PASS no spaces
+PASS no repeats
+Valid
