@@ -1,0 +1,5 @@
+Rank Team Points GD Goals
+1 Wolves 7 5 10
+2 Falcons 7 5 9
+3 Tigers 7 3 8
+4 Eagles 6 4 7
